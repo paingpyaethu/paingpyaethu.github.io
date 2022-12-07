@@ -672,7 +672,7 @@ Scroll Menu End
 }
 
 .skills-card .skills-title-2::before {
-    content: 'framework';
+    content: 'frameworks & libraries';
     color: var(--color-3);
     position: absolute;
     opacity: 0;
